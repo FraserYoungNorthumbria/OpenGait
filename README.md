@@ -1,7 +1,7 @@
 # OpenGait
 
 Access the free software here!
-http://127.0.0.1:5000/
+https://app.opengait.net
 
 
 ## 1. Introduction
