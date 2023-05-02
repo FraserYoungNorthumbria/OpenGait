@@ -1,3 +1,7 @@
+#############################################################
+# This is a placeholder copy of McCamley to test GitHub repo#
+#############################################################
+
 from scipy.signal import find_peaks
 from scipy.signal import detrend, butter, filtfilt, find_peaks
 from scipy.integrate import cumtrapz
